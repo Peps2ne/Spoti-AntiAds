@@ -1,0 +1,8 @@
+﻿  Spoti.cpp
+  Generating code
+  3 of 87 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+C:\Users\e\source\repos\Spoti\Spoti\Spoti.cpp(59): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Finished generating code
+  Spoti.vcxproj -> C:\Users\e\source\repos\Spoti\x64\Release\Spoti.exe
